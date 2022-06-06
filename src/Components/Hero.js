@@ -12,7 +12,7 @@ function Hero() {
       <ReactTypingEffect
         speed="80"
         eraseSpeed="0"
-        className="absolute bottom-24 text-white md:text-xl text-sm text-center font-mono w-2/3"
+        className="absolute bottom-24 text-white md:text-xl text-xs text-center font-mono w-2/3"
         staticText={[
           "We ❤️ to ship and we make sure your protocol is efficient and safe. DeFi, NFTs, general protocols - if it can be done, we can do it.",
         ]}

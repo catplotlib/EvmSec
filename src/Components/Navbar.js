@@ -6,7 +6,7 @@ function Navbar() {
     <nav class="sticky top-0 z-50 bg-dblack border-gray-200 px-1 sm:px-4 py-4 rounded border-b border-grayy">
       <div class="container flex  justify-between items-center mx-auto ">
         <a href="/" class="flex items-center">
-          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
+          <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
             EVM Security
           </span>
         </a>
@@ -49,7 +49,7 @@ function Navbar() {
         <div class=" w-full md:block w-auto collapse in" id="mobile-menu">
           <ul class="flex mt-4 flex-row space-x-8 mt-0 text-sm font-medium">
             <li>
-              <button class="md:text-xl text-sm bg-bluee hover:bg-blue-700 text-white font-bold md:py-2 md:px-4 px-1 py-1 rounded">
+              <button class="md:text-xl text-xs bg-bluee hover:bg-blue-700 text-white font-bold md:py-2 md:px-4 px-1 py-1 rounded">
                 <a
                   href="https://calendly.com/abhinavmir/coffee"
                   target="_blank"
