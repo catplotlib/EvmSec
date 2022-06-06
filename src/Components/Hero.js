@@ -5,8 +5,8 @@ function Hero() {
   return (
     // <div class="flex flex-col justify-center">
     <div class="relative flex flex-col justify-center h-screen items-center">
-      <img src={bg} class="h-72 h-1/3 absolute md:mb-24 mb-32 -z-50" />
-      <h1 class="md:mb-24 mb-32 px-12 text-white md:text-7xl text-3xl text-center font-heading ">
+      <img src={bg} class="h-72 md:h-2/3 h-1/3 absolute md:mb-24 mb-32 -z-50" />
+      <h1 class="md:mb-24 mb-40 px-12 text-white md:text-7xl text-3xl text-center font-heading ">
         Helping you launch your <span class="text-red">web3 protocols.</span>
       </h1>
       <ReactTypingEffect
