@@ -3,15 +3,15 @@ import React from "react";
 function Services() {
   return (
     <div id="Services" class="flex flex-col w-full items-center ">
-      <h1 class="md:mt-48 px-12 text-white md:text-8xl text-5xl mb-24 text-center font-heading underline decoration-6 underline-offset-6 decoration-dbluee">
+      <h1 class="md:mt-36 px-12 text-white md:text-7xl text-4xl mb-24 text-center font-heading underline decoration-6 underline-offset-6 decoration-dbluee">
         Services
       </h1>
       <div class="flex w-full flex-col md:flex-row mb-4 justify-between">
         <div class="flex-1 flex flex-col bg-lightGray h-auto pb-24 mb-12 md:mr-24 md:ml-24 mr-8 ml-8 shadow-[14px_16px_11px_rgba(0, 0, 0, 0.25)] py-8">
-          <p class="font-heading text-white text-center text-5xl md:p-12">
+          <p class="font-heading text-white text-center text-4xl md:p-12">
             PRE-FINAL AUDITS
           </p>
-          <ul class="list-none md:mr-12 md:ml-12 text-white font-mono md:text-xl text-auto md:px-0 px-4 pt-4 md:pt-0">
+          <ul class="list-none md:mr-12 md:ml-12 text-white font-mono md:text-sm text-auto md:px-0 px-4 pt-4 md:pt-0">
             <li>✅ Become deployment-ready</li>
             <li>✅ Github-based CI/CD</li>
             <li>✅ Contract monitoring</li>
@@ -26,10 +26,10 @@ function Services() {
         {/* md:mr-24 mb-12 */}
         {/* md:mr-24 */}
         <div class="flex-1 flex flex-col bg-lightGray h-auto pb-24 mb-12 md:mr-24 ml-8 mr-8 md:ml-0 mb-12  shadow-[14px_16px_11px_rgba(0, 0, 0, 0.25)] py-8">
-          <p class="font-heading text-white text-center text-5xl md:p-12">
+          <p class="font-heading text-white text-center text-4xl md:p-12">
             GENERAL CONSULT
           </p>
-          <ul class="list-none md:mr-12 md:ml-12 text-white font-mono md:text-xl text-auto md:px-0 px-4 pt-4 md:pt-0">
+          <ul class="list-none md:mr-12 md:ml-12 text-white font-mono md:text-sm text-auto md:px-0 px-4 pt-4 md:pt-0">
             <li>✅ Validate usecase for web3</li>
             <li>✅ Identify full dev stack</li>
             <li>✅ Figuring out “How to start?</li>
@@ -42,10 +42,10 @@ function Services() {
           </ul>
         </div>
         <div class="flex-1 flex flex-col bg-lightGray h-auto pb-24 mb-12 md:mr-24 ml-8 mr-8 md:ml-0 shadow-[14px_16px_11px_rgba(0, 0, 0, 0.25)] py-8">
-          <p class="font-heading text-white text-center text-5xl md:p-12">
+          <p class="font-heading text-white text-center text-4xl md:p-12">
             MVP building
           </p>
-          <ul class="list-none md:mr-12 md:ml-12 text-white font-mono md:text-xl text-auto md:px-0 px-4 pt-4 md:pt-0">
+          <ul class="list-none md:mr-12 md:ml-12 text-white font-mono md:text-sm text-auto md:px-0 px-4 pt-4 md:pt-0">
             <li>✅ Quick turnaround</li>
             <li>✅ Get web3-functional MVPs</li>
             <li>✅ Visualise the product value</li>

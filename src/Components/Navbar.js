@@ -6,7 +6,7 @@ function Navbar() {
     <nav class="sticky top-0 z-50 bg-dblack border-gray-200 px-1 sm:px-4 py-4 rounded border-b border-grayy">
       <div class="container flex  justify-between items-center mx-auto ">
         <a href="/" class="flex items-center">
-          <span class="self-center text-3xl font-semibold whitespace-nowrap dark:text-white">
+          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
             EVM Security
           </span>
         </a>
@@ -72,7 +72,7 @@ function Navbar() {
             <li class="hidden md:block">
               <a
                 href="#Services"
-                class=" md:text-2xl block py-2 hover:text-white rounded md:bg-transparent md:text-blue-700  dark:text-grayy"
+                class=" md:text-xl block py-2 hover:text-white rounded md:bg-transparent md:text-blue-700  dark:text-grayy"
                 aria-current="page"
               >
                 Services
@@ -81,7 +81,7 @@ function Navbar() {
             <li class="hidden md:block">
               <a
                 href="#Clients"
-                class=" md:text-2xl block py-2 hover:text-white rounded md:bg-transparent md:text-blue-700  dark:text-grayy"
+                class=" md:text-xl block py-2 hover:text-white rounded md:bg-transparent md:text-blue-700  dark:text-grayy"
                 aria-current="page"
               >
                 Clients
