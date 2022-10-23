@@ -7,7 +7,7 @@ function Services() {
         Services
       </h1>
       <div class="flex w-full flex-col md:flex-row mb-4 justify-between">
-        <div class="flex-1 flex flex-col bg-lightGray h-auto pb-24 mb-12 md:mr-24 md:ml-24 mr-8 ml-8 shadow-[14px_16px_11px_rgba(0, 0, 0, 0.25)] py-8">
+        <div class="flex-1 flex flex-col bg-lightGray h-auto pb-24 mb-12 md:mr-24 md:ml-24 mr-8 ml-8 shadow-[14px_16px_11px_rgba(0, 0, 0, 0.25)] py-8 rounded-3xl">
           <p class="font-heading text-white text-center text-4xl md:p-12">
             PRE-FINAL AUDITS
           </p>
@@ -25,7 +25,7 @@ function Services() {
         </div>
         {/* md:mr-24 mb-12 */}
         {/* md:mr-24 */}
-        <div class="flex-1 flex flex-col bg-lightGray h-auto pb-24 mb-12 md:mr-24 ml-8 mr-8 md:ml-0 mb-12  shadow-[14px_16px_11px_rgba(0, 0, 0, 0.25)] py-8">
+        <div class="flex-1 flex flex-col bg-lightGray h-auto pb-24 mb-12 md:mr-24 ml-8 mr-8 md:ml-0 mb-12  shadow-[14px_16px_11px_rgba(0, 0, 0, 0.25)] py-8 rounded-3xl">
           <p class="font-heading text-white text-center text-4xl md:p-12">
             GENERAL CONSULT
           </p>
@@ -41,7 +41,7 @@ function Services() {
             <li>✅ General security guidelines</li>
           </ul>
         </div>
-        <div class="flex-1 flex flex-col bg-lightGray h-auto pb-24 mb-12 md:mr-24 ml-8 mr-8 md:ml-0 shadow-[14px_16px_11px_rgba(0, 0, 0, 0.25)] py-8">
+        <div class="flex-1 flex flex-col bg-lightGray h-auto pb-24 mb-12 md:mr-24 ml-8 mr-8 md:ml-0 shadow-[14px_16px_11px_rgba(0, 0, 0, 0.25)] py-8 rounded-3xl">
           <p class="font-heading text-white text-center text-4xl md:p-12">
             MVP building
           </p>
